@@ -1,2 +1,1 @@
-# resume
-Christopher's Resume and CV
+# Christopher Hann-Soden's Resume
