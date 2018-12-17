@@ -1,21 +1,29 @@
-\documentclass[11pt,letterpaper,sans]{moderncv}
+\documentclass[11pt,letterpaper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
 
-\moderncvstyle{banking} % 'casual' 'classic', 'oldstyle', 'banking'
-\moderncvcolor{purple} % 'blue', 'orange', 'green', 'red', 'purple', 'grey', 'black'
+% modern themes
+\moderncvstyle{banking}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{purple}                                % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
 
-\usepackage[utf8]{inputenc}
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
 
 % adjust the page margins
 \usepackage[scale=0.75]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
 
 \usepackage{import}
 \usepackage{multicol}
 
 % personal data
+% optional, remove / comment the lines if not wanted
 \name{Christopher}{Hann-Soden}
-\address{213 Hillside Ave, Piedmont, CA, 94611}{}{}
+\address{213 Hillside Ave, Piedmont, CA, 94611}{}{} % the "postcode city" and and "country" arguments can be omitted or provided empty
 \phone[mobile]{(925)872-2716}
-\email{channsoden@berkeley.edu}
+\email{channsoden@gmail.com}
 \homepage{https://github.com/channsoden}
 
 % Use this command for multiple degrees/positions within a university/company
@@ -32,11 +40,13 @@
   \par\addvspace{#1}}
 
 
-
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
 \begin{document}
 \makecvtitle
 
-I'm a PhD candidate who studies the evolution of sex by comparing mold genomes. I develop and employ algorithms and statistical tools to analyze complex data. I'm interested in analyzing and presenting data of all types, as well as teaching these skills to others.
+I recently earned my PhD for studying the evolution of sex by comparing mold genomes. I develop and employ algorithms and statistical tools to analyze complex data. I'm interested in analyzing and presenting data of all types, as well as teaching these skills to others.
 
 \begin{center}\small{Scheduled graduation: December 2018.}\end{center}
 
@@ -52,7 +62,7 @@ I'm a PhD candidate who studies the evolution of sex by comparing mold genomes. 
   \end{itemize}}}
   
 \vspace{5pt}
-\item{\cventry{Jul 2012--Present}{Graduate Student Researcher}{UC Berkeley}{Berkeley, CA}{Taylor Lab}{\begin{itemize}
+\item{\cventry{Jul 2012--Dec 2018}{Graduate Student Researcher}{UC Berkeley}{Berkeley, CA}{Taylor Lab}{\begin{itemize}
     \item{Developing a statistical framework and algorithm for the measurement of genomic rearrangement rates.}
     \item{Investigating the evolutionary consequences of breeding system transitions in \textit{Neurospora} using statistical and machine learning methods of population and comparative genomics.}
     \item{Modeling the transcriptional response of \textit{Neurospora} to acclimation and adaptation to warmer temperatures.}
@@ -107,7 +117,7 @@ I'm a PhD candidate who studies the evolution of sex by comparing mold genomes. 
 % Publications list
 \nocite{*} % show all publications without needing to cite them
 \bibliographystyle{unsrt}
-\bibliography{publications}
+\bibliography{publications}                        % 'publications' is the name of a BibTeX file
 
 \end{document}
 
