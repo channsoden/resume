@@ -6,6 +6,8 @@ c.hannsoden at berkeley dot edu
 
 I recently earned my PhD for studying the evolution of sex by comparing mold genomes. I develop and employ algorithms and statistical tools to analyze complex data. I’m interested in analyzing and presenting data of all types, as well as teaching these skills to others.
 
+Prospective employers or recruiters should also [read my cover letter](https://github.com/channsoden/resume/blob/master/cover_letter.md).
+
 ## Experience  
 __Domain Consultant, UC Berkeley (Jan 2018--Present)__
 - Providing technical support and consulting services to researchers in data-driven domains.  
