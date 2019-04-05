@@ -13,8 +13,8 @@ __Domain Consultant, UC Berkeley (Jan 2018--Present)__
   
 __Graduate Student Researcher, UC Berkeley, Taylor Lab (Jul 2012--Dec 2018)__  
 - Developing a statistical framework and algorithm for the measurement of genomic rearrangement rates.  
-- Investigating the evolutionary consequences of breeding system transitions in \textit{Neurospora} using statistical and machine learning methods of population and comparative genomics.  
-- Modeling the transcriptional response of \textit{Neurospora} to acclimation and adaptation to warmer temperatures.  
+- Investigating the evolutionary consequences of breeding system transitions in *Neurospora* using statistical and machine learning methods of population and comparative genomics.  
+- Modeling the transcriptional response of *Neurospora* to acclimation and adaptation to warmer temperatures.  
 - Administering and maintaining the laboratory's Linux server.  
 
 __Instructor, UC Berkeley (2014--2018)__  
