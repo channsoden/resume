@@ -6,6 +6,8 @@ c.hannsoden at berkeley dot edu
 
 I recently earned my PhD for studying the evolution of sex by comparing mold genomes. I develop and employ algorithms and statistical tools to analyze complex data. I’m interested in analyzing and presenting data of all types, as well as teaching these skills to others.
 
+Prospective employers or recruiters should also [read my cover letter](https://github.com/channsoden/resume/blob/master/cover_letter.md).
+
 ## Experience  
 __Domain Consultant, UC Berkeley (Jan 2018--Present)__
 - Providing technical support and consulting services to researchers in data-driven domains.  
@@ -13,8 +15,8 @@ __Domain Consultant, UC Berkeley (Jan 2018--Present)__
   
 __Graduate Student Researcher, UC Berkeley, Taylor Lab (Jul 2012--Dec 2018)__  
 - Developing a statistical framework and algorithm for the measurement of genomic rearrangement rates.  
-- Investigating the evolutionary consequences of breeding system transitions in \textit{Neurospora} using statistical and machine learning methods of population and comparative genomics.  
-- Modeling the transcriptional response of \textit{Neurospora} to acclimation and adaptation to warmer temperatures.  
+- Investigating the evolutionary consequences of breeding system transitions in *Neurospora* using statistical and machine learning methods of population and comparative genomics.  
+- Modeling the transcriptional response of *Neurospora* to acclimation and adaptation to warmer temperatures.  
 - Administering and maintaining the laboratory's Linux server.  
 
 __Instructor, UC Berkeley (2014--2018)__  
