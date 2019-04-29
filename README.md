@@ -4,33 +4,38 @@ Piedmont, CA 94611
 (925)872-2716  
 c.hannsoden at berkeley dot edu  
 
-I recently earned my PhD for studying the evolution of sex by comparing mold genomes. I develop and employ algorithms and statistical tools to analyze complex data. I’m interested in analyzing and presenting data of all types, as well as teaching these skills to others.
+I recently earned my PhD for studying the evolution of sex by comparing mold genomes. I develop and employ algorithms and statistical tools to analyze complex data. I'm interested in analyzing and presenting data of all types in order to improve the quality of people's lives.
 
 Prospective employers or recruiters should also [read my cover letter](https://github.com/channsoden/resume/blob/master/cover_letter.md).
 
 ## Experience  
-__Domain Consultant, UC Berkeley (Jan 2018--Present)__
-- Providing technical support and consulting services to researchers in data-driven domains.  
-- Developing training and documentation for campus IT services and infrastructure, including HPC, cloud services, and Docker.  
+__Domain Consultant, UC Berkeley (Jan 2018--Present)__  
+*Key Skills*: communication, HPC, Unix systems, Git, cloud computing, collaboration.
+- Provided technical support and consulting services to researchers in data-driven domains.  
+- Developed training and documentation for campus IT services and infrastructure, including HPC and cloud services.  
   
-__Graduate Student Researcher, UC Berkeley, Taylor Lab (Jul 2012--Dec 2018)__  
-- Developing a statistical framework and algorithm for the measurement of genomic rearrangement rates.  
-- Investigating the evolutionary consequences of breeding system transitions in *Neurospora* using statistical and machine learning methods of population and comparative genomics.  
-- Modeling the transcriptional response of *Neurospora* to acclimation and adaptation to warmer temperatures.  
-- Administering and maintaining the laboratory's Linux server.  
+__Graduate Student Researcher, UC Berkeley, Taylor Lab (Jul 2012--Dec 2018)__    
+*Key Skills*: NGS, phylogenetics, genomics, population genetics, Python, R, HPC, writing, oral presentation.
+- Independently developed a statistical framework and efficient algorithm for measuring genomic rearrangement rates.  
+- Used statistical and machine learning methods of population and comparative genomics to investigate the evolutionary consequences of breeding system transitions in *Neurospora*.  
+- Modeled the transcriptional response of *Neurospora* to acclimation and adaptation to warmer temperatures.  
+- Administered and maintained the laboratory's Linux server.  
 
-__Instructor, UC Berkeley (2014--2018)__  
+__Instructor, UC Berkeley (2014--2018)__    
+*Key Skills*: oral presentation, information synthesis, communication, teamwork.
 - Introduction to Programming for Bioinformatics (Summers 2014-2017, Winters 2016-2018)  
-- BIO 1A: General Biology (Spring 2015, Spring 2018)  
-- PMB 112L: Microbiology Laboratory (Spring 2014)  
+- General Biology (Spring 2015, Spring 2018)  
+- Microbiology Laboratory (Spring 2014)  
 
-__Laboratory Assistant I, UC Berkeley, Glaunsinger Lab (Aug 2011--May 2012)__  
+__Laboratory Assistant I, UC Berkeley, Glaunsinger Lab (Aug 2011--May 2012)__    
+*Key Skills*: molecular biology, cell culture, time management, neatness, organization, teamwork.
 - Mapping interactions between human and viral proteins.
 - Developing and implementing workflows for cloning, heterologous gene expression, coimmunoprecipitation, and blotting.  
 
-__Mentor, Oakland Science and Math Outreach (Aug 2011--May 2012)__  
-- Tutoring high school math \& science.  
-- Providing guidance and developing life skills.
+__Mentor, Oakland Science and Math Outreach (Aug 2011--May 2012)__    
+*Key Skills*: communication, compassion, personal engagement.
+- Tutored high school math \& science.  
+- Provided guidance and developing life skills.
 
 ## Education
 __Doctrate of Philosophy, Microbiology, UC Berkeley (2012-2018)__
@@ -39,7 +44,7 @@ __Doctrate of Philosophy, Microbiology, UC Berkeley (2012-2018)__
 - Symposium Chair, Microbiology Student Group (2015)  
 
 __Bachelor of Science, Biology & Zoology, Humboldt State University (2008-2010)__  
-- GPA: 3.62 (*cum laude*)
+- *cum laude*
 - Minor: English (writing emphasis)
 
 ## Publications
@@ -68,3 +73,17 @@ the fire-associated fungus neurospora discreta._ Molecular Ecology, 24:5657–75
 
 John W. Taylor, Christopher Hann-Soden, Sara Branco, Iman Sylvain, and Chris Ellison. _Clonal
 reproduction in fungi._ PNAS, 112(29):8901–8, 2015.
+
+## Other Skills & Projects
+
+__Dancify__
+
+A web app to tag and visually explore your music using Spotify data.
+
+__Partner Dancing__
+
+Blues and fusion, 4 years.
+
+__Martial Arts__
+
+Shorinji Kempo, 11 years.
