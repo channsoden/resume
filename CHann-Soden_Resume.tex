@@ -17,6 +17,7 @@
 
 \usepackage{import}
 \usepackage{multicol}
+\usepackage{xcolor}
 
 % personal data
 % optional, remove / comment the lines if not wanted
@@ -46,50 +47,63 @@
 \begin{document}
 \makecvtitle
 
-I recently earned my PhD for studying the evolution of sex by comparing mold genomes. I develop and employ algorithms and statistical tools to analyze complex data. I'm interested in analyzing and presenting data of all types, as well as teaching these skills to others.
+\textbf{Computational Biologist and Bioinformatician}
 
-\begin{center}\small{Scheduled graduation: December 2018.}\end{center}
+I recently earned my PhD for studying the evolution of sex by comparing mold genomes. I develop and employ algorithms and statistical tools to analyze complex data. I'm interested in analyzing and presenting data of all types in order to improve the quality of people's lives.
 
-\vspace{12pt}
+%\vspace{12pt}
 
 \section{Experience}
 \begin{itemize}
   
 \vspace{5pt}
 \item{\cventry{Jan 2018--Present}{Domain Consultant}{UC Berkeley}{Berkeley, CA}{Berkeley Research Computing}{\begin{itemize}
-    \item{Providing technical support and consulting services to researchers in data-driven domains.}
-    \item{Developing training and documentation for campus IT services and infrastructure, including HPC, cloud services, and Docker.}
+    \vspace{3pt}
+    \item[]{\textit{Key Skills}: communication, HPC, Unix systems, Git, cloud computing, collaboration.}
+    \vspace{3pt}
+    \item{Provided technical support and consulting services to researchers in data-driven domains.}
+    \item{Developed training and documentation for campus IT services and infrastructure, including HPC and cloud services.}
   \end{itemize}}}
   
 \vspace{5pt}
 \item{\cventry{Jul 2012--Dec 2018}{Graduate Student Researcher}{UC Berkeley}{Berkeley, CA}{Taylor Lab}{\begin{itemize}
-    \item{Developing a statistical framework and algorithm for the measurement of genomic rearrangement rates.}
-    \item{Investigating the evolutionary consequences of breeding system transitions in \textit{Neurospora} using statistical and machine learning methods of population and comparative genomics.}
-    \item{Modeling the transcriptional response of \textit{Neurospora} to acclimation and adaptation to warmer temperatures.}
-    \item{Administering and maintaining the laboratory's Linux server.}
+    \vspace{3pt}
+    \item[]{\textit{Key Skills}: NGS, phylogenetics, genomics, population genetics, Python, R, HPC, writing, oral presentation.}
+    \vspace{3pt}
+    \item{Independently developed a statistical framework and efficient algorithm for measuring genomic rearrangement rates.}
+    \item{Used statistical and machine learning methods of population and comparative genomics to investigate the evolutionary consequences of breeding system transitions in \textit{Neurospora}. }
+    \item{Modeled the transcriptional response of \textit{Neurospora} to acclimation and adaptation to warmer temperatures.}
+    \item{Administered and maintained the laboratory's Linux server.}
   \end{itemize}}}
 
 \vspace{5pt}
 \item{\cventry{2014--2018}{Instructor}{UC Berkeley}{Berkeley, CA}{}{\begin{itemize}
+    \vspace{3pt}
+    \item[]{\textit{Key Skills}: oral presentation, information synthesis, communication, teamwork.}
+    \vspace{3pt}
     \item{Introduction to Programming for Bioinformatics (Summers 2014-2017, Winters 2016-2018)}
-    \item{BIO 1A: General Biology (Spring 2015, Spring 2018)}
-    \item{PMB 112L: Microbiology Laboratory (Spring 2014)}
+    \item{General Biology (Spring 2015, Spring 2018)}
+    \item{Microbiology Laboratory (Spring 2014)}
   \end{itemize}}}
   
 \vspace{5pt}
 \item{\cventry{Aug 2011--May 2012}{Laboratory Assistant I}{UC Berkeley}{Berkeley, CA}{Glaunsinger Lab}{\begin{itemize}
-    \item{Mapping interactions between human and viral proteins.}
-    \item{Developing and implementing workflows for cloning, heterologous gene expression, coimmunoprecipitation, and blotting.}
+    \vspace{3pt}
+    \item[]{\textit{Key Skills}: molecular biology, cell culture, time management, neatness, organization, teamwork.}
+    \vspace{3pt}
+    \item{Systematically mapped interactions between human and viral proteins.}
+    \item{Developed and implemented work flows for cloning, heterologous gene expression, coimmunoprecipitation, and blotting.}  
   \end{itemize}}}
   
 %\vspace{5pt}
   %\item{\cventry{2008--2010}{Undergraduate Student}{Humboldt State University}{Arcata, CA}{}{\vspace{3pt}Research: Investigating the visual capabilities of the purple sea urchin. Specialization in biophysics and behavioral ecology.}}
 
-\vspace{5pt}
-\item{\cventry{2013--2015}{Mentor}{Oakland Science and Math Outreach}{Oakland, CA}{}{\begin{itemize}
-    \item{Tutoring high school math \& science.}
-    \item{Providing guidance and developing life skills.}
-\end{itemize}}}
+%\vspace{5pt}
+%\item{\cventry{2013--2015}{Mentor}{Oakland Science and Math Outreach}{Oakland, CA}{}{\begin{itemize}
+%    \item{Tutoring high school math \& science.}
+%    \item{Providing guidance and developing life skills.}
+%    \item{Key Skills: communication, compassion, personal engagement.}
+%\end{itemize}}}
   
 %\vspace{5pt}
 %\item{\cventry{2009--2010}{Genetics}{Tutor}{Humboldt State University}{}{}}
@@ -104,20 +118,37 @@ I recently earned my PhD for studying the evolution of sex by comparing mold gen
 \vspace{5pt}
 \item{\cventry{2012--2018}{Microbiology}{UC Berkeley}{Berkeley, CA}{Doctorate of Philosophy}{}}
 \item[]{\cvsimple{2015--2017}{Philomathia Scholars Graduate Fellowship}{}}
-\item[]{\cvsimple{2016}{Webmester, Microbiology Student Group}{}}
+\item[]{\cvsimple{2016}{Webmaster, Microbiology Student Group}{}}
 \item[]{\cvsimple{2015}{Symposium Chair, Microbiology Student Group}{}}
   
 \vspace{5pt}
-\item{\cventry{2008--2010}{Biology \& Zoology}{Humboldt State University}{Arcata, CA}{Bachelor of Science}{GPA: 3.62 (\textit{cum laude})}}
+\item{\cventry{2008--2010}{Biology \& Zoology}{Humboldt State University}{Arcata, CA}{Bachelor of Science}{\textit{cum laude}}}
 
 \end{itemize}
-
-\vspace{24pt}
 
 % Publications list
 \nocite{*} % show all publications without needing to cite them
 \bibliographystyle{unsrt}
 \bibliography{publications}                        % 'publications' is the name of a BibTeX file
+
+\section{Other Skills \& Projects}
+
+\begin{multicols}{3}
+
+  \textbf{Dancify} - A web app to tag and visually explore your music using Spotify data.
+
+  \textbf{Partner Dancing} - Blues and fusion, 4 years.
+  \newline
+
+  \textbf{Martial Arts} - Shorinji Kempo, 11 years.
+  \newline
+
+\end{multicols}
+
+% Include synonyms to keywords for dumb robots.
+\textcolor{white}{\tiny \textsuperscript{analyze data analysis visualization genetics algorithms statistics unsupervised learning markov models classification data mining bioinformatics informatics biostatistics computational biology datasets} }
+
+\textcolor{white}{\tiny \textsuperscript{computer science version control written communication skills interpersonal skills verbal communication skills collaborate collaborative project independent project driven} }
 
 \end{document}
 
