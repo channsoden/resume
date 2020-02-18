@@ -4,7 +4,7 @@ Piedmont, CA 94611
 (925)872-2716  
 c.hannsoden at berkeley dot edu  
 
-I recently earned my PhD for studying the evolution of sex by comparing mold genomes. I develop and employ algorithms and statistical tools to analyze complex data. I'm interested in analyzing and presenting data of all types in order to improve the quality of people's lives.
+I earned my PhD for studying the evolution of sex by comparing mold genomes. I'm interested in developing algorithms and statistical methods to solve hard problems.
 
 Prospective employers or recruiters should also [read my cover letter](https://github.com/channsoden/resume/blob/master/cover_letter.md).
 
@@ -80,10 +80,14 @@ __Dancify__
 
 A web app to tag and visually explore your music using Spotify data.
 
+__Cryptyx__
+
+A free and open source block chain ticketing protocol and web service.
+
 __Partner Dancing__
 
-Blues and fusion, 4 years.
+Blues and fusion, 5 years.
 
 __Martial Arts__
 
-Shorinji Kempo, 11 years.
+Shorinji Kempo, 12 years.
