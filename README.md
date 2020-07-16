@@ -4,7 +4,7 @@ Piedmont, CA 94611
 (925)872-2716  
 c.hannsoden at berkeley dot edu  
 
-I earned my PhD for developing statistical and machine learning algorithms to compare genomes. I'm interested in developing algorithms and pipelines to solve hard problems.
+I earned my PhD for developing statistical and machine learning algorithms to compare genomes. Since then I provide computational consulting for researchers in myriad domains.
 
 Prospective employers or recruiters should also [read my cover letter](https://github.com/channsoden/resume/blob/master/cover_letter.md).
 
