@@ -8,8 +8,15 @@ I earned my PhD for developing statistical and machine learning algorithms to co
 
 Prospective employers or recruiters should also [read my cover letter](https://github.com/channsoden/resume/blob/master/cover_letter.md).
 
-## Experience  
-__Domain Consultant, UC Berkeley (Jan 2018--Present)__  
+## Experience
+__Director of Informatics, QB3 Genomics, UC Berkeley (Aug 2020--Present)__  
+*Key Skills*: NGS, experimental planning, research core management, bioinformatics.
+- Directing a core facility providing NGS, molecular biology, and computational services.
+- Providing consultation to researchers in experimental design and data analysis.
+- Designing a LIMS and ordering system for the core.
+- Developing training and documentation in genomics and bioinformatics.
+
+__Domain Consultant, UC Berkeley (Jan 2018--Sept 2020)__  
 *Key Skills*: communication, HPC, Unix systems, Git, cloud computing, collaboration.
 - Provided technical support and consulting services to researchers in data-driven domains.  
 - Developed training and documentation for campus IT services and infrastructure, including HPC and cloud services.  
